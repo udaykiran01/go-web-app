@@ -9,7 +9,9 @@ image:
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
 
-  tag: "15693346454"
+
+  tag: "15693546561"
+
 
 ingress:
   enabled: false
