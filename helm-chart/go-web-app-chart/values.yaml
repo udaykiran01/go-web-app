@@ -8,15 +8,8 @@ image:
   repository: udayakula/go-web-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-<<<<<<< HEAD
-<<<<<<< HEAD
-  tag: "1022508432"
-=======
-  tag: 15693183505
->>>>>>> b0028d10c56372f3761eed92109f1d3ae27d0bec
-=======
-  tag: 15693243680
->>>>>>> 547bddb58568a8975d95bb078c1189f849b654f4
+
+  tag: "15693346454"
 
 ingress:
   enabled: false
