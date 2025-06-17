@@ -10,7 +10,7 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
 
 
-  tag: 15695417855
+  tag: 15695433828
 
 
 ingress:
